@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441908155 source:c:\users\dell\documents\ codecrck\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<stdio.h>
+

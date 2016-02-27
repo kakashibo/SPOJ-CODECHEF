@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444565170 source:c:\users\dell\documents\sec\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

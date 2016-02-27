@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439908657 source:c:\users\dell\documents\cdbstr05\main.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

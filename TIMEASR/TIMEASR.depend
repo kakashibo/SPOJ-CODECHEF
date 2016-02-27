@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1443882348 source:c:\users\dell\documents\timeasr\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<sstream>
+

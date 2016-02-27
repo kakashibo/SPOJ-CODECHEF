@@ -1,0 +1,1448 @@
+College:101	6006	College of Engineering, Pune	
+Year   :1854
+Intake :630
+_____________________________________________________________________________________________________
+College:2	3012	Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai	
+Year   :1887
+Intake :540
+_____________________________________________________________________________________________________
+College:366	3036	Institute of Chemical Technology, Matunga, Mumbai
+Year   :1933
+Intake :211
+_____________________________________________________________________________________________________
+College:295	4005	Laxminarayan Institute of Technology, Nagpur	
+Year   :1942
+Intake :132
+_____________________________________________________________________________________________________
+College:232	6007	Walchand College of Engineering, Sangli	
+Year   :1947
+Intake :390
+_____________________________________________________________________________________________________
+College:196	2008	Government College of Engineering,Aurangabad	
+Year   :1960
+Intake :360
+_____________________________________________________________________________________________________
+College:231	6005	Government College of Engineering, Karad	
+Year   :1960
+Intake :300
+_____________________________________________________________________________________________________
+College:3       3014	Sardar Patel College of Engineering, Andheri	
+Year   :1962
+Intake :180
+_____________________________________________________________________________________________________
+College:266	1002	Government College of Engineering, Amravati	
+Year   :1964
+Intake :390
+_____________________________________________________________________________________________________
+College:220	2020	Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded	
+Year   :1981
+Intake :610
+_____________________________________________________________________________________________________
+College:10	3174	Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai	
+Year   :1983
+Intake :900
+_____________________________________________________________________________________________________
+College:110	6151	Maharashtra Institute of Technology, Kothrud, Pune	
+Year   :1983
+Intake :630
+_____________________________________________________________________________________________________
+College:127	6271	Pune Institute of Computer Technology, Dhankavdi, Pune	
+Year   :1983
+Intake :600
+_____________________________________________________________________________________________________
+College:13	3181	K.J.Somaiya College of Engineering, Vidyavihar, Mumbai	
+Year   :1983
+Intake :600
+_____________________________________________________________________________________________________
+College:14	3182	Thadomal Shahani Engineering College, Bandra, Mumbai	
+Year   :1983
+Intake :420
+_____________________________________________________________________________________________________
+College:182	5103	Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of	
+Year   :1983
+Intake :420
+_____________________________________________________________________________________________________
+College:183	5104	Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon	
+Year   :1983
+Intake :660
+_____________________________________________________________________________________________________
+College:187	5164	P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar	
+Year   :1983
+Intake :360
+_____________________________________________________________________________________________________
+College:203	2130	Terna Public Charitable Trust's College of Engineering, Osmanabad	
+Year   :1983
+Intake :510
+_____________________________________________________________________________________________________
+College:204	2131	Shree Tuljabhavani College of Engineering, Tuljapur	
+Year   :1983
+Intake :240
+_____________________________________________________________________________________________________
+College:205	2132	M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad	
+Year   :1983
+Intake :630
+_____________________________________________________________________________________________________
+College:223	2128	Maharashtra College of Engineering, Nilanga	
+Year   :1983
+Intake :180
+_____________________________________________________________________________________________________
+College:224	2129	M.S. Bidve Engineering College, Latur	
+Year   :1983
+Intake :360
+_____________________________________________________________________________________________________
+College:234	6214	K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli	
+Year   :1983
+Intake :480
+_____________________________________________________________________________________________________
+College:237	6222  Dattajirao Kadam Technical Education Society's Textile & Engineering Institute,Ichalkaranji.
+Year   :1983
+Intake :630
+_____________________________________________________________________________________________________
+College:239	6267	Kolhapur Institute of Technology College of Engineering, Kolhapur	
+Year   :1983
+Intake :660
+_____________________________________________________________________________________________________
+College:240	6268	Tatyasaheb Kore Institute of Engineering and Technology, Warananagar	
+Year   :1983
+Intake :480
+_____________________________________________________________________________________________________
+College:241	6269   Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli
+Year   :1983
+Intake :660
+_____________________________________________________________________________________________________
+College:242	6270	Karmaveer Bhaurao Patil College of Engineering and Polytechnic, Satara	
+Year   :1983
+Intake :360
+_____________________________________________________________________________________________________
+College:268      1101	Shri Sant Gajanan Maharaj College of Engineering,Shegaon	
+Year   :1983
+Intake :360
+_____________________________________________________________________________________________________
+College:269	1105	Prof. Ram Meghe Institute of Technology & Research, Amravati	
+Year   :1983
+Intake :780
+_____________________________________________________________________________________________________
+College:273	1116	Shri Shivaji Education Society's College of Engineering and Technology, Akola	
+Year   :1983
+Intake :300
+_____________________________________________________________________________________________________
+College:274	1117	Janata Shikshan Prasarak Mandal’s Babasaheb Naik College Of Engineering, Pusad	
+Year   :1983
+Intake :660
+_____________________________________________________________________________________________________
+College:299	4118	Yashwant Rural Education Society's Bapurao Deshmukh Engineering	College,Sevagram	
+Year   :1983
+Intake :690
+_____________________________________________________________________________________________________
+College:316	4165     Gondia Education Society's Manoharbhai Patel Institute of Engineering and Technology, Gondia
+Year   :1983
+Intake :480
+_____________________________________________________________________________________________________
+College:348	6265	Walchand Institute of Technology, Solapur	
+Year   :1983
+Intake :540
+_____________________________________________________________________________________________________
+College:361	4163	Rajiv Gandhi College of Engineering Research & TechnologyChandrapur	
+Year   :1983
+Intake :520
+_____________________________________________________________________________________________________
+College:74	5139	Pravara Rural Col of Engg. loni, Pravaranagar, Ahmednagar.	
+Year   :1983
+Intake :480
+_____________________________________________________________________________________________________
+College:76	5160	Sanjivani Rural Education Society's College of Engineering, Kopargaon	
+Year   :1983
+Intake :540
+_____________________________________________________________________________________________________
+College:77	5161	Padmashri Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar	
+Year   :1983
+Intake :420
+_____________________________________________________________________________________________________
+College:78	5162	Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering,	
+Year   :1983
+Intake :660
+_____________________________________________________________________________________________________
+College:128	6272	Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune	
+Year   :1984
+Intake :840
+_____________________________________________________________________________________________________
+College:129	6273	Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology,	
+Year   :1984
+Intake :740
+_____________________________________________________________________________________________________
+College:15	3183	Anjuman-I-Islam's M.H. Saboo Siddik College of Engineering, Byculla, Mumbai	
+Year   :1984
+Intake :420
+_____________________________________________________________________________________________________
+College:16	3184	Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai	
+Year   :1984
+Intake :240
+_____________________________________________________________________________________________________
+College:17	3185	Vivekanand Education Society's Institute of Technology, Chembur, Mumbai	
+Year   :1984
+Intake :540
+_____________________________________________________________________________________________________
+College:188	5168	T.M.E. Society's J.T.Mahajan College of Engineering, Faizpur	
+Year   :1984
+Intake :420
+_____________________________________________________________________________________________________
+College:202	2126	Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad	
+Year   :1984
+Intake :660
+_____________________________________________________________________________________________________
+College:222	2127	Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.	
+Year   :1984
+Intake :420
+_____________________________________________________________________________________________________
+College:238	6250	D.Y. Patil College of Engineering and Technology, Kolhapur	
+Year   :1984
+Intake :600
+_____________________________________________________________________________________________________
+College:297	4115	Shri Ramdeobaba College of Engineering and Management, Nagpur	
+Year   :1984
+Intake :810
+_____________________________________________________________________________________________________
+College:314	4147	K.D.K. College of Engineering, Nagpur	
+Year   :1984
+Intake :660
+_____________________________________________________________________________________________________
+College:317	4167	Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur	
+Year   :1984
+Intake :1020
+_____________________________________________________________________________________________________
+College:70	5121	K. K. Wagh Institute of Engineering Education and Research, Nashik	
+Year   :1984
+Intake :840
+_____________________________________________________________________________________________________
+College:130	6274	Pune Vidyarthi Griha's College of Engineering and Technology,Pune	
+Year   :1985
+Intake :480
+_____________________________________________________________________________________________________
+College:296	4104	Kavi Kulguru Institute of Technology & Science, Ramtek	
+Year   :1985
+Intake :570
+_____________________________________________________________________________________________________
+College:8	3148	Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College, Mumbai	
+Year   :1985
+Intake :420
+_____________________________________________________________________________________________________
+College:11	3175	M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai	
+Year   :1986
+Intake :840
+_____________________________________________________________________________________________________
+College:18	3187	N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai	
+Year   :1988
+Intake :600
+_____________________________________________________________________________________________________
+College:365	3033	Dr. Babasaheb Ambedkar Technological University, Lonere	
+Year   :1989
+Intake :540
+_____________________________________________________________________________________________________
+College:131	6275	Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati	
+Year   :1990
+Intake :450
+_____________________________________________________________________________________________________
+College:19	3188	Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai	
+Year   :1990
+Intake :270
+_____________________________________________________________________________________________________
+College:20	3189	Bharati Vidyapeeth College of Engineering, Belpada, Kharghar, Navi Mumbai	
+Year   :1990
+Intake :480
+_____________________________________________________________________________________________________
+College:300	4123    Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering,Nagpur
+Year   :1990
+Intake :810
+_____________________________________________________________________________________________________
+College:132	6276	MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune	
+Year   :1991
+Intake :540
+_____________________________________________________________________________________________________
+College:189	5169	NagaonEducation Society's Gangamai College of Engineering, Nagaon, Tal Dist	
+Year   :1991
+Intake :330
+_____________________________________________________________________________________________________
+College:21	3190	Terna Engineering College, Nerul, Navi Mumbai	
+Year   :1991
+Intake :480
+_____________________________________________________________________________________________________
+College:133	6278	All India Shri Shivaji Memorial Society's College of Engineering, Pune	
+Year   :1992
+Intake :660
+_____________________________________________________________________________________________________
+College:243	6277    Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur
+Year   :1992
+Intake :600
+_____________________________________________________________________________________________________
+College:4	3135	Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai	
+Year   :1992
+Intake :480
+_____________________________________________________________________________________________________
+College:6	3146	Jawahar Education Society's Annasaheb Chudaman Patil College of	
+Year   :1992
+Intake :540
+_____________________________________________________________________________________________________
+College:206	2133	Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai	
+Year   :1993
+Intake :360
+_____________________________________________________________________________________________________
+College:22	3191	Mandar Education Society's Rajaram Shinde College of Engineering, Pedhambe	
+Year   :1993
+Intake :240
+_____________________________________________________________________________________________________
+College:23	3192	Smt. Indira Gandhi College of Engineering,Kopar Khairane, Navi Mumbai	
+Year   :1993
+Intake :240
+_____________________________________________________________________________________________________
+College:275	1119	Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha EngineeringCollege, Chikhali	
+Year   :1993
+Intake :420
+_____________________________________________________________________________________________________
+College:180	5003	University Instituteof Chemical Technology, North Maharashtra University, Jalgaon	
+Year   :1994
+Intake :120
+_____________________________________________________________________________________________________
+College:207	2134	Peoples Education Society's College of Engineering, Aurangabad	
+Year   :1994
+Intake :450
+_____________________________________________________________________________________________________
+College:24	3193	Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai	
+Year   :1994
+Intake :370
+_____________________________________________________________________________________________________
+College:25	3194	Vidyavardhini's College of Engineering and Technology, Vasai, Thane	
+Year   :1994
+Intake :360
+_____________________________________________________________________________________________________
+College:26	3196	Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai	
+Year   :1994
+Intake :540
+_____________________________________________________________________________________________________
+College:27	3197	Agnel Charities' FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai	
+Year   :1994
+Intake :300
+_____________________________________________________________________________________________________
+College:28	3198	Konkan Gyanpeeth College of Engineering, Karjat	
+Year   :1994
+Intake :420
+_____________________________________________________________________________________________________
+College:29	3199    Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai
+Year   :1994
+Intake :600
+_____________________________________________________________________________________________________
+College:116	6177	Sinhgad College of Engineering, Vadgaon (BK), Pune	
+Year   :1996
+Intake :1200
+_____________________________________________________________________________________________________
+College:181	5004	Government College of Engineering, Jalgaon	
+Year   :1996
+Intake :360
+_____________________________________________________________________________________________________
+College:276	1120	Jawaharlal Darda Institute of Engineering and Technology, Yavatmal	
+Year   :1996
+Intake :720
+_____________________________________________________________________________________________________
+College:298	4116	Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur	
+Year   :1996
+Intake :900
+_____________________________________________________________________________________________________
+College:30	3200	Hope Foundation and research center'sFinolex Academy of Management and	
+Year   :1996
+Intake :420
+_____________________________________________________________________________________________________
+College:360	4004	Government College of Engineering, Chandrapur	
+Year   :1996
+Intake :340
+_____________________________________________________________________________________________________
+College:1	3035	Usha Mittal Institute of Technology SNDTWomen's University, Mumbai	
+Year   :1997
+Intake :192
+_____________________________________________________________________________________________________
+College:346	6220	Shri Vithal Education and Research Institute's College of Engineering, Pandharpur	
+Year   :1997
+Intake :420
+_____________________________________________________________________________________________________
+College:125	6206	Pune District EducationAssociation's College of Engineering, Pune	
+Year   :1998
+Intake :240
+_____________________________________________________________________________________________________
+College:126	6207   Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune
+Year   :1998
+Intake :720
+_____________________________________________________________________________________________________
+College:190	5170    Hindi Seva Mandal's Shri Sant Gadgebaba College of Engineering & Technology, Bhusawal
+Year   :1998
+Intake :450
+_____________________________________________________________________________________________________
+College:31	3201	Rizvi Education Society's Rizvi College of Engineering, Bandra,Mumbai	
+Year   :1998
+Intake :420
+_____________________________________________________________________________________________________
+College:32	3202	Rajendra Mane College of Engineering & TechnologyAmbav Deorukh	
+Year   :1998
+Intake :300
+_____________________________________________________________________________________________________
+College:72	5125	Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi	Dist. Nashik	
+Year   :1998
+Intake :540
+_____________________________________________________________________________________________________
+College:103	6139	Progressive Education Society's Modern College of Engineering, Pune	
+Year   :1999
+Intake :660
+_____________________________________________________________________________________________________
+College:105	6144	Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune	
+Year   :1999
+Intake :390
+_____________________________________________________________________________________________________
+College:107	6146	MIT Academy of Engineering,Alandi, Pune	
+Year   :1999
+Intake :600
+_____________________________________________________________________________________________________
+College:114	6175	Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune	
+Year   :1999
+Intake :660
+_____________________________________________________________________________________________________
+College:134	6281	Modern Education Society's College of Engineering, Pune	
+Year   :1999
+Intake :420
+_____________________________________________________________________________________________________
+College:135	6282	All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune	
+Year   :1999
+Intake :540
+_____________________________________________________________________________________________________
+College:186	5107	Shri Gulabrao Deokar College of Engineering, Jalgaon	
+Year   :1999
+Intake :300
+_____________________________________________________________________________________________________
+College:191	5171	Godavari Foundation's Godavari College Of Engineering,Jalgaon	
+Year   :1999
+Intake :240
+_____________________________________________________________________________________________________
+College:244	6283	Annasaheb Dange College of Engineering and Technology, Ashta, Sangli	
+Year   :1999
+Intake :720
+_____________________________________________________________________________________________________
+College:272	1114	Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati	
+Year   :1999
+Intake :450
+_____________________________________________________________________________________________________
+College:301	4133	Sanmarg Shikshan Sanstha's Smt. Radhikatai Pandav College of Engineering, Nagpur	
+Year   :1999
+Intake :570
+_____________________________________________________________________________________________________
+College:313	4146	Umrer College of Engineering, Umrer	
+Year   :1999
+Intake :360
+_____________________________________________________________________________________________________
+College:318	4171     Lokmanya Tilak Jankalyan Shikshan Sanstha's , Priyadarshini Institute of Engineering and Technology, Nagpur
+Year   :1999
+Intake :540
+_____________________________________________________________________________________________________
+College:319	4172	Anjuman College of Engineering & Technology, Nagpur	
+Year   :1999
+Intake :480
+_____________________________________________________________________________________________________
+College:33	3203	Atharva College of Engineering,Malad(West),Mumbai	
+Year   :1999
+Intake :480
+_____________________________________________________________________________________________________
+College:34	3204	St. Francis Institute of Technology,Borivali, Mumbai	
+Year   :1999
+Intake :360
+_____________________________________________________________________________________________________
+College:35	3206	S.S.P.M.'s College of Engineering, Kankavli	
+Year   :1999
+Intake :360
+_____________________________________________________________________________________________________
+College:5	3139	Vidyalankar Institute of Technology,Wadala, Mumbai	
+Year   :1999
+Intake :420
+_____________________________________________________________________________________________________
+College:68	5108	Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao	
+Year   :1999
+Intake :400
+_____________________________________________________________________________________________________
+College:117	6178	Sinhgad Technical Education Society's Smt. Kashibai Navale College of	
+Year   :2000
+Intake :1080
+_____________________________________________________________________________________________________
+College:136	6284	Vidya Pratishthan's College of Engineering, Baramati Dist.Pune	
+Year   :2000
+Intake :420
+_____________________________________________________________________________________________________
+College:137	6285	Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune	
+Year   :2000
+Intake :240
+_____________________________________________________________________________________________________
+College:36	3207	M.E.SPillai'sInstitute of Information Technology, Engineering Media Studies and	
+Year   :2000
+Intake :660
+_____________________________________________________________________________________________________
+College:104	6141  Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune
+Year   :2001
+Intake :600
+_____________________________________________________________________________________________________
+College:108	6148	MAEER's M.I.T. College of Engineering , Kothrud, Pune	
+Year   :2001
+Intake :660
+_____________________________________________________________________________________________________
+College:12	3176	Thakur College of Engineering and Technology, Kandivali, Mumbai	
+Year   :2001
+Intake :660
+_____________________________________________________________________________________________________
+College:185	5106	K. C. E. Societys College of Engineering and Information Technology, Jalgaon	
+Year   :2001
+Intake :240
+_____________________________________________________________________________________________________
+College:192	5172	R. C. Patel Institute of Technology, Shirpur	
+Year   :2001
+Intake :600
+_____________________________________________________________________________________________________
+College:200	2113	G. S. Mandal's Maharashtra Institute of Technology, Aurangabad	
+Year   :2001
+Intake :630
+_____________________________________________________________________________________________________
+College:208	2135	Hi-Tech Institute of Technology, Aurangabad	
+Year   :2001
+Intake :240
+_____________________________________________________________________________________________________
+College:209	2136	Aditya Engineering College , Beed	
+Year   :2001
+Intake :420
+_____________________________________________________________________________________________________
+College:210	2137	Nagnathappa Halge EngineeringCollege, Parli, Beed	
+Year   :2001
+Intake :300
+_____________________________________________________________________________________________________
+College:245	6288	Bharati Vidyapeeth's College of Engineering, Kolhapur	
+Year   :2001
+Intake :480
+_____________________________________________________________________________________________________
+College:37	3208	Don Bosco Institute of Technology, Mumbai	
+Year   :2001
+Intake :300
+_____________________________________________________________________________________________________
+College:38	3209	K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai	
+Year   :2001
+Intake :300
+_____________________________________________________________________________________________________
+College:39	3210  Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)
+Year   :2001
+Intake :300
+_____________________________________________________________________________________________________
+College:138	6289	B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune	
+Year   :2002
+Intake :600
+_____________________________________________________________________________________________________
+College:211	2138	Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna	
+Year   :2002
+Intake :330
+_____________________________________________________________________________________________________
+College:277	1121	Shri Hanuman VyayamPrasarak Mandals College of Engineering & Technology,Amravati	
+Year   :2002
+Intake :240
+_____________________________________________________________________________________________________
+College:40	3211	S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai	
+Year   :2002
+Intake :420
+_____________________________________________________________________________________________________
+College:41	3212   Watumull Institute of Electronics Engineering and Computer Technology, Worli, Mumbai
+Year   :2002
+Intake :210
+_____________________________________________________________________________________________________
+College:106	6145	Jaywantrao Sawant College of Engineering,Pune	
+Year   :2004
+Intake :540
+_____________________________________________________________________________________________________
+College:122	6185	Sinhagad Institute of Technology, Lonavala	
+Year   :2004
+Intake :900
+_____________________________________________________________________________________________________
+College:321	4174	ST. Vincent Pallotti College of Engineering & Technology, Nagpur	
+Year   :2004
+Intake :420
+_____________________________________________________________________________________________________
+College:79	5173    SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik)
+Year   :2004
+Intake :360
+_____________________________________________________________________________________________________
+College:9	3154    Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai
+Year   :2004
+Intake :660
+_____________________________________________________________________________________________________
+College:109	6149	Choudhary Attar Singh Yadav Memorial Trust,Siddhant College of Engineering, Maval	
+Year   :2005
+Intake :420
+_____________________________________________________________________________________________________
+College:123	6187	Sinhgad Academy of Engineering, Kondhwa (BK)Kondhwa-Saswad Road, Pune	
+Year   :2005
+Intake :780
+_____________________________________________________________________________________________________
+College:42	3214	Xavier Institute Of Engineering C/OXavier Technical Institute,Mahim,Mumbai	
+Year   :2005
+Intake :180
+_____________________________________________________________________________________________________
+College:43	3215	Bhartiya Vidya Bhavan's Sardar Patel Instituteof Technology , Andheri, Mumbai	
+Year   :2005
+Intake :240
+_____________________________________________________________________________________________________
+College:102   6122   The Shetkari Shikshan Mandal Sangli's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune
+Year   :2006
+Intake :540
+_____________________________________________________________________________________________________
+College:111	6155	G.H.Raisoni College of Engineering & Management, Wagholi, Pune	
+Year   :2006
+Intake :540
+_____________________________________________________________________________________________________
+College:112	6156	Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune	
+Year   :2006
+Intake :540
+_____________________________________________________________________________________________________
+College:113	6160	JSPM's Imperial College of Engineering and Research, Wagholi, Pune	
+Year   :2006
+Intake :600
+_____________________________________________________________________________________________________
+College:233	6028	Department of Technology, Shivaji University, Kolhapur	
+Year   :2006
+Intake :360
+_____________________________________________________________________________________________________
+College:345	6219	KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur	
+Year   :2006
+Intake :420
+_____________________________________________________________________________________________________
+College:349	6293	Kai AmdarBramhadevdada Mane Shikshan & Samajik Prathistan's Bramhadevdada	
+Year   :2006
+Intake :300
+_____________________________________________________________________________________________________
+College:71	5124	Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon	
+Year   :2006
+Intake :540
+_____________________________________________________________________________________________________
+College:75	5151	MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.	
+Year   :2006
+Intake :480
+_____________________________________________________________________________________________________
+College:115	6176	G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune	
+Year   :2007
+Intake :420
+_____________________________________________________________________________________________________
+College:118	6179	Chanakya Education Society's Indira College of Engineering & Management, Pune	
+Year   :2007
+Intake :480
+_____________________________________________________________________________________________________
+College:124	6203	Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune	
+Year   :2007
+Intake :240
+_____________________________________________________________________________________________________
+College:139	6298	Zeal Education Society's Dnyanganga College of Engineering & Reserch, Narhe, Pune	
+Year   :2007
+Intake :660
+_____________________________________________________________________________________________________
+College:184    5105	G.H. Raisoni Institute of Engineering and Management, Jalgaon	
+Year   :2007
+Intake :420
+_____________________________________________________________________________________________________
+College:278	1122	Dr. Bhausaheb Nadurkar College of Engineering, Waghapur,Yavatmal	
+Year   :2007
+Intake :420
+_____________________________________________________________________________________________________
+College:302	4134	Guru Nanak Institute of Engineering & Technology,Kalmeshwar, Nagpur	
+Year   :2007
+Intake :450
+_____________________________________________________________________________________________________
+College:315	4151	Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of	
+Year   :2007
+Intake :480
+_____________________________________________________________________________________________________
+College:322	4175	JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha	
+Year   :2007
+Intake :420
+_____________________________________________________________________________________________________
+College:323	4177	Priyadarshini BhagwatiCollege of Engineering, Harpur Nagar, Umred Road,Nagpur	
+Year   :2007
+Intake :420
+_____________________________________________________________________________________________________
+College:44	3216	Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri	
+Year   :2007
+Intake :300
+_____________________________________________________________________________________________________
+College:45	3217	Vighnaharata Trust'sShivajirao S. Jondhale College of Engineering & Technology,	
+Year   :2007
+Intake :360
+_____________________________________________________________________________________________________
+College:7	3147     Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat
+Year   :2007
+Intake :540
+_____________________________________________________________________________________________________
+College:119	6182	Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science,	
+Year   :2008
+Intake :600
+_____________________________________________________________________________________________________
+College:120	6183   Al-Ameen Educational and Medical Foundation, College of Engineering, Koregaon, Bhima
+Year   :2008
+Intake :180
+_____________________________________________________________________________________________________
+College:121	6184	K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli	
+Year   :2008
+Intake :420
+_____________________________________________________________________________________________________
+College:140	6307    Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli
+Year   :2008
+Intake :480
+_____________________________________________________________________________________________________
+College:141	6310	Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of	
+Year   :2008
+Intake :300
+_____________________________________________________________________________________________________
+College:199	2112	Shree Yash Pratishthan, Shreeyash College of Engineering and Technology,	
+Year   :2008
+Intake :720
+_____________________________________________________________________________________________________
+College:246	6302	Gourishankar Educational & Charitable Trust's Satara College of Engineering &	
+Year   :2008
+Intake :300
+_____________________________________________________________________________________________________
+College:247	6303	Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad
+Year   :2008
+Intake :360
+_____________________________________________________________________________________________________
+College:248	6304	Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and	
+Year   :2008
+Intake :420
+_____________________________________________________________________________________________________
+College:271	1108	P.R. Patil College of Engineering & Technology, Amravati	
+Year   :2008
+Intake :300
+_____________________________________________________________________________________________________
+College:279	1123	Dr.Rajendra Gode Institute of Technology & Research, Amravati	
+Year   :2008
+Intake :480
+_____________________________________________________________________________________________________
+College:280	1124	G.H. Raisoni college of Engineering & Management, Amravati	
+Year   :2008
+Intake :480
+_____________________________________________________________________________________________________
+College:281	1125	Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of	
+Year   :2008
+Intake :300
+_____________________________________________________________________________________________________
+College:282	1126    Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati
+Year   :2008
+Intake :480
+_____________________________________________________________________________________________________
+College:303	4135	Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering &Technology,Nagpur	
+Year   :2008
+Intake :420
+_____________________________________________________________________________________________________
+College:304	4136    Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur
+Year   :2008
+Intake :300
+_____________________________________________________________________________________________________
+College:305	4137	Sir Shantilal Badjate Charitable Trust's S. B. Jain Institute of technology,	
+Year   :2008
+Intake :480
+_____________________________________________________________________________________________________
+College:306	4138	Jaidev Education Society, J D College of Engineering and Management, Nagpur	
+Year   :2008
+Intake :540
+_____________________________________________________________________________________________________
+College:307	4139	Samridhi Sarwajanik Charitable Trust, Jhulelal Institut of Technology, Nagpur	
+Year   :2008
+Intake :390
+_____________________________________________________________________________________________________
+College:308	4141     Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur
+Year   :2008
+Intake :420
+_____________________________________________________________________________________________________
+College:309	4142	Ankush Shikshan Sanstha's G. H. Raisoni Institute of Engineering & Technology for	
+Year   :2008
+Intake :360
+_____________________________________________________________________________________________________
+College:310	4143     Sanmarg Shikshan Sanstha, Mandukarrao Pandav College of Engineering,Bhandara,Nagpur
+Year   :2008
+Intake :420
+_____________________________________________________________________________________________________
+College:311	4144	Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur	
+Year   :2008
+Intake :420
+_____________________________________________________________________________________________________
+College:312	4145	Wainganga College of Engineering and Management, Dongargaon, Nagpur	
+Year   :2008
+Intake :540
+_____________________________________________________________________________________________________
+College:324	4178	Rajiv Gandhi College of Engineering & Research, Hingna Road, Nagpur	
+Year   :2008
+Intake :540
+_____________________________________________________________________________________________________
+College:325    4179    Lokmanya Tilak Jankalyan Shiksan Sanstha, Priyadarshini Indira Gandhi College of Engineering, Nagpur
+Year   :2008
+Intake :360
+_____________________________________________________________________________________________________
+College:326	4180	Shrimati Rajashri Mulak College of Engineering for Womens, Nagpur	
+Year   :2008
+Intake :360
+_____________________________________________________________________________________________________
+College:327	4181    Sarvasiddhanta Education Soc's Nuva College of Engineering and Technology,Nagpur
+Year   :2008
+Intake :420
+_____________________________________________________________________________________________________
+College:328	4184	Om Arunodaya Bahuuddeshiya Khadi Garmudyog Vikas Sanstha's Om College of	
+Year   :2008
+Intake :420
+_____________________________________________________________________________________________________
+College:329	4185    Shree Bapuraoji Deshmukh Foundation, Suresh Deshmukh College of Engineering, Selukate, Wardha
+Year   :2008
+Intake :300
+_____________________________________________________________________________________________________
+College:330	4186	Datta Meghe Institute of Medical Science's Datta Meghe Institute of Engineering &	
+Year   :2008
+Intake :540
+_____________________________________________________________________________________________________
+College:331	4187	Dr. Babasaheb Ambedkar College of Engineering and Research, Wanadongri, Nagpur	
+Year   :2008
+Intake :480
+_____________________________________________________________________________________________________
+College:347	6223	Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering	
+Year   :2008
+Intake :420
+_____________________________________________________________________________________________________
+College:350	6308	Shanti Education Society, A.G. Patil Institute of Technology, Soregaon,Solapur(North)
+Year   :2008
+Intake :300
+_____________________________________________________________________________________________________
+College:46	3218   Aldel Education Trust's St. John College of Engineering & Technology, Vevoor, Palghar
+Year   :2008
+Intake :420
+_____________________________________________________________________________________________________
+College:47	3219	Koti Vidya Charitable Trust'sSmt. Alamuri Ratnamala Institute of Engineering and	
+Year   :2008
+Intake :360
+_____________________________________________________________________________________________________
+College:48	3220   Saraswati Education Society, Yadavrao Tasgaonkar College of Engineering and Management, Nasarapur, Chandai, Karjat
+Year   :2008
+Intake :480
+_____________________________________________________________________________________________________
+College:69	5109	Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani,	
+Year   :2008
+Intake :600
+_____________________________________________________________________________________________________
+College:73   5130	Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik	
+Year   :2008
+Intake :450
+_____________________________________________________________________________________________________
+College:80	5176	G. H. Raisoni College of Engineering and Management, Ahmednagar	
+Year   :2008
+Intake :300
+_____________________________________________________________________________________________________
+College:81	5177	Matoshri College of Engineering and Research Centre, Eklahare, Nashik	
+Year   :2008
+Intake :540
+_____________________________________________________________________________________________________
+College:82	5179	Vishwabharati Academy's College of Engineering, Ahmednagar	
+Year   :2008
+Intake :360
+_____________________________________________________________________________________________________
+College:100	6004	Government College of Engineering, Avasari	
+Year   :2009
+Intake :360
+_____________________________________________________________________________________________________
+College:142	6311     Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi
+Year   :2009
+Intake :600
+_____________________________________________________________________________________________________
+College:143	6319	Shahajirao Patil Vikas Pratishthan, S.B.Patil College of Engineering, Vangali, Tal.	
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:144	6320	K.J.'s Educational Institute's K.J.College of Engineering & Management Research,Pisoli
+Year   :2009
+Intake :540
+_____________________________________________________________________________________________________
+College:145	6322	Shree Gajanan Maharaj Shikshan Prasarak Manda'l Sharadchandra Pawar College of	
+Year   :2009
+Intake :180
+_____________________________________________________________________________________________________
+College:146	6323	Dr. D. Y. Patil College of Engineering, Ambi, Talegaon, Maval	
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:147	6324	Rajgad Dnyanpeeth's Technical Campus,Dhangwadi, Bhor	
+Year   :2009
+Intake :120
+_____________________________________________________________________________________________________
+College:148	6325	AlardCharitable Trust's Alard College of Engineering and Management, Pune	
+Year   :2009
+Intake :420
+_____________________________________________________________________________________________________
+College:198	2111	Everest Education Society, Group of Institutions (Integrated Campus), Ohar	
+Year   :2009
+Intake :360
+_____________________________________________________________________________________________________
+College:201	2114	Deogiri Institute of Engineering and Management Studies, Aurangabad	
+Year   :2009
+Intake :540
+_____________________________________________________________________________________________________
+College:213	2141	Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal.	
+Year   :2009
+Intake :240
+_____________________________________________________________________________________________________
+College:214	2146	Adarsh Shikshan Prasarak Mandal's K. T. Patil College of Engineering and	
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:221	2116  Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi ,Nanded
+Year   :2009
+Intake :420
+_____________________________________________________________________________________________________
+College:225	2144     Maharashtra Education Society's Maharashtra Udayagiri Institute of Management & Technology, Somnathpur
+Year   :2009
+Intake :240
+_____________________________________________________________________________________________________
+College:226	2145	Geetai Charitable Trust's Khurana Sawant Institute of Engineering & Technology,	
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:235	6215   Sou. Sushila Danchand Ghodawat Cha.Trust's Group of Institution (Integrated Campus), Atigre, Kolhapur
+Year   :2009
+Intake :420
+_____________________________________________________________________________________________________
+College:236	6217	Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions,	
+Year   :2009
+Intake :420
+_____________________________________________________________________________________________________
+College:249	6313	Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva	
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:250	6315	Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala	
+Year   :2009
+Intake :360
+_____________________________________________________________________________________________________
+College:251	6317     Shri Shamrao Patil (Yadravkar)Educational & Charitable Trusts, Sharad Institute of Technology College of Engineering, Yadrav
+Year   :2009
+Intake :420
+_____________________________________________________________________________________________________
+College:252	6318	Abhinav Education Society's College of Engineering and Technology (Degree),	
+Year   :2009
+Intake :240
+_____________________________________________________________________________________________________
+College:255	6644	Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj	
+Year   :2009
+Intake :420
+_____________________________________________________________________________________________________
+College:270	1107	 P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati
+Year   :2009
+Intake :480
+_____________________________________________________________________________________________________
+College:283	1127	Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal	
+Year   :2009
+Intake :480
+_____________________________________________________________________________________________________
+College:284	1128	Prof Ram Meghe College of Engineeringand Management, Badnera	
+Year   :2009
+Intake :480
+_____________________________________________________________________________________________________
+College:285	1129	Dhamangaon Education Society's College of Engineering and Technology,	
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:286	1130	Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon
+Year   :2009
+Intake :360
+_____________________________________________________________________________________________________
+College:332	4192	Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur	
+Year   :2009
+Intake :360
+_____________________________________________________________________________________________________
+College:333	4193	K.D.M. Education Society, Vidharbha Institute of Technology,Umred Road ,Nagpur	
+Year   :2009
+Intake :360
+_____________________________________________________________________________________________________
+College:334	4194	Nav Disha Education Soc, Acharya Vinoba Bhave Institute of Technology	
+Year   :2009
+Intake :360
+_____________________________________________________________________________________________________
+College:335	4195    Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad – Patil College of Engineering, Nagpur
+Year   :2009
+Intake :540
+_____________________________________________________________________________________________________
+College:336	4196	Gurunanak Educational Society's Gurunanak Institute of Engineering and	Management, Nagpur	
+Year   :2009
+Intake :480
+_____________________________________________________________________________________________________
+College:337	4197	Jai Mahakali Shikshan Sanstha, Agnihotri College of Engineering, Sindhi(Meghe)	
+Year   :2009
+Intake :360
+_____________________________________________________________________________________________________
+College:351	6321	Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur	
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:352	6326	Shri Pandurang Pratishtan, Karmayogi Engineering College, Shelve, Pandharpur	
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:362	4188	Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni	
+Year   :2009
+Intake :420
+_____________________________________________________________________________________________________
+College:363	4189	Sardar Patel Memorial Society's Namdevrao Poreddiwar College of Engineering and	Technology, Gadchiroli	
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:364	4190    M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:49	3221	Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology,	
+Year   :2009
+Intake :420
+_____________________________________________________________________________________________________
+College:50	3222    Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar
+Year   :2009
+Intake :540
+_____________________________________________________________________________________________________
+College:51	3223	Mahatma Education Society's Pillai's College of HOCL College of Engineering &	
+Year   :2009
+Intake :780
+_____________________________________________________________________________________________________
+College:52	3224    Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat
+Year   :2009
+Intake :360
+_____________________________________________________________________________________________________
+College:83	5181   Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:84	5182	Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering,	
+Year   :2009
+Intake :540
+_____________________________________________________________________________________________________
+College:85	5183
+Year   :2009
+Intake :240
+_____________________________________________________________________________________________________
+College:86	5184	Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering &	
+Year   :2009
+Intake :360
+_____________________________________________________________________________________________________
+College:87	5303  Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,
+Year   :2009
+Intake :300
+_____________________________________________________________________________________________________
+College:149	6609	Jaihind College Of Engineering,Kuran	
+Year   :2010
+Intake :420
+_____________________________________________________________________________________________________
+College:150	6620	DR. D. Y. Patil Institute of Engineering and Technology, Ambi	
+Year   :2010
+Intake :360
+_____________________________________________________________________________________________________
+College:151  6621	Institute Of Knowledge-College Of Engineering, Pimpale - Jagtap	
+Year   :2010
+Intake :300
+_____________________________________________________________________________________________________
+College:152	6622	I.S.B.& M. School of Technology, Nande Village	
+Year   :2010
+Intake :300
+_____________________________________________________________________________________________________
+College:153	6625	Universal College of Engineering & Research, Sasewadi	
+Year   :2010
+Intake :360
+_____________________________________________________________________________________________________
+College:154	6628	Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune	
+Year   :2010
+Intake :420
+_____________________________________________________________________________________________________
+College:155	6632    Navsahyadri Education Society's Group of Institutions,	Naigaon, Tal. Bhor, Dist.Pune
+Year   :2010
+Intake :360
+_____________________________________________________________________________________________________
+College:156	6634	KJEI's Trinity Academy of Engineering, Yewalewadi, Pune	
+Year   :2010
+Intake :360
+_____________________________________________________________________________________________________
+College:157	6635	Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune	
+Year   :2010
+Intake :360
+_____________________________________________________________________________________________________
+College:158	6649	TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe	
+Year   :2010
+Intake :480
+_____________________________________________________________________________________________________
+College:159	6732	Dr. D. Y. Patil School OF Engineering, Lohegaon, Pune	
+Year   :2010
+Intake :480
+_____________________________________________________________________________________________________
+College:193	5322	Jamia Institute Of Engineering And Management Studies, Akkalkuwa	
+Year   :2010
+Intake :300
+_____________________________________________________________________________________________________
+College:215	2250	Aurangabad College of Engineering,Naygaon Savangi, Aurangabad	
+Year   :2010
+Intake :420
+_____________________________________________________________________________________________________
+College:227	2252    Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani
+Year   :2010
+Intake :300
+_____________________________________________________________________________________________________
+College:228	2254	Vilasrao Deshmukh Foundation Group of Institutions, Latur	
+Year   :2010
+Intake :300
+_____________________________________________________________________________________________________
+College:229	2255	Balaghat Engineering College,Ruddha, Ahmedpur	
+Year   :2010
+Intake :300
+_____________________________________________________________________________________________________
+College:253	6545    Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi,Varye,Satara.
+Year   :2010
+Intake :360
+_____________________________________________________________________________________________________
+College:254	6629	Dhananjay Mahadik Group of Institutions, Kagal	
+Year   :2010
+Intake :300
+_____________________________________________________________________________________________________
+College:287	1180	Sanmati Engineering College, Sawargaon Barde, Washim	
+Year   :2010
+Intake :300
+_____________________________________________________________________________________________________
+College:288	1182	Padmashri Dr. V.B.Kolte College of Engineering, Malkapur, Buldhana	
+Year   :2010
+Intake :360
+_____________________________________________________________________________________________________
+College:289	1251	Bhonsla College of Engineering & Reasearch, Akola	
+Year   :2010
+Intake :270
+_____________________________________________________________________________________________________
+College:338	4285	V M Institute of Engineering and Technology, Dongargaon, Nagpur	
+Year   :2010
+Intake :300
+_____________________________________________________________________________________________________
+College:339	4301	ITM College of Engineering, Nagpur	
+Year   :2010
+Intake :180
+_____________________________________________________________________________________________________
+College:340	4302	Gondia Education Society's Manoharbhai Patel Institute Of Engineering &	
+Year   :2010
+Intake :300
+_____________________________________________________________________________________________________
+College:341	4303	Vidya Niketan Institute of Engineering and Technology, Nagpur	
+Year   :2010
+Intake :240
+_____________________________________________________________________________________________________
+College:342	4304	Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna	
+Year   :2010
+Intake :180
+_____________________________________________________________________________________________________
+College:343	4305	G.H.Raisoni Academy of Engineering & Technology, Nagpur	
+Year   :2010
+Intake :540
+_____________________________________________________________________________________________________
+College:344	4613	Suryodaya College of Engineering & Technology, Nagpur	
+Year   :2010
+Intake :360
+_____________________________________________________________________________________________________
+College:353	6602	College Of Engineering, Vairag Tal. Barshi	
+Year   :2010
+Intake :240
+_____________________________________________________________________________________________________
+College:354	6618	Shriram Institute Of Engineering And Technology Centre, Paniv	
+Year   :2010
+Intake :240
+_____________________________________________________________________________________________________
+College:355	6640	N. B. Navale Sinhgad College of Engineering, Kegaon, solapur	
+Year   :2010
+Intake :660
+_____________________________________________________________________________________________________
+College:356	6643	S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist Solapur	
+Year   :2010
+Intake :600
+_____________________________________________________________________________________________________
+College:53	3351	Innovative Engineers & Teachers Education Society's Bharat College of Engineering,	
+Year   :2010
+Intake :360
+_____________________________________________________________________________________________________
+College:54	3353   Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai
+Year   :2010
+Intake :420
+_____________________________________________________________________________________________________
+College:55	3423	Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai	
+Year   :2010
+Intake :360
+_____________________________________________________________________________________________________
+College:88	5330	Pune Vidyarthi Griha's College Of Engineering, Nashik	
+Year   :2010
+Intake :240
+_____________________________________________________________________________________________________
+College:89	5331	Sandip Institute of Engineering & Management, Nashik	
+Year   :2010
+Intake :480
+_____________________________________________________________________________________________________
+College:160	6754	International Institute of Information Technology (I²IT), Pune.	
+Year   :2011
+Intake :180
+_____________________________________________________________________________________________________
+College:161	6755	JSPM Narhe Technical Campus, Pune.	
+Year   :2011
+Intake :480
+_____________________________________________________________________________________________________
+College:162	6758	Sahyadri Valley College of Engineering & Technology, Rajuri, Pune.	
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:163	6759	Shree Ramchandra College of Engineering, Lonikand,Pune	
+Year   :2011
+Intake :360
+_____________________________________________________________________________________________________
+College:165	6768	P.K. Technical Campus, Pune.	
+Year   :2011
+Intake :240
+_____________________________________________________________________________________________________
+College:166	6769	Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.	
+Year   :2011
+Intake :660
+_____________________________________________________________________________________________________
+College:167	6770	SKN Sinhgad Institute of Technology & Science, Kusgaon(BK),Pune.	
+Year   :2011
+Intake :480
+_____________________________________________________________________________________________________
+College:168	6771	Flora Institute of Technology, Khopi, Near Khed Shivapur Toll Plaza, Pune	
+Year   :2011
+Intake :240
+_____________________________________________________________________________________________________
+College:169   6772	NBN Sinhgad Technical Institutes Campus, Pune	
+Year   :2011
+Intake :480
+_____________________________________________________________________________________________________
+College:170	6786	Dr. D. Y. Patil School of Engineering & Technology,Charholi(Bk), Via Lohgaon, Pune	
+Year   :2011
+Intake :420
+_____________________________________________________________________________________________________
+College:171	6787	Dr. D. Y. Patil School of Engineering Academy, Ambi	
+Year   :2011
+Intake :360
+_____________________________________________________________________________________________________
+College:194	5381	Shri. Jaykumar Rawal Institute of Technology, Dondaicha.	
+Year   :2011
+Intake :240
+_____________________________________________________________________________________________________
+College:195	5396	College of Engineering and Technology ,North Maharashtra Knowledge City, Jalgaon	
+Year   :2011
+Intake :240
+_____________________________________________________________________________________________________
+College:216	2515	Sai Institute of Engineering & Technology, Bilda, Aurangabad.	
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:217    2516	International Centre of Excellence in Engineering & Management, Aurangabad.	
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:230	2522	STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.	
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:256	6757	Yashoda Technical Campus, Wadhe, Satara.	
+Year   :2011
+Intake :360
+_____________________________________________________________________________________________________
+College:257	6762	Nanasaheb Mahadik College of Engineering,Walwa, Sangli.	
+Year   :2011
+Intake :420
+_____________________________________________________________________________________________________
+College:258	6766	Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara	
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:259	6780   D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.
+Year   :2011
+Intake :420
+_____________________________________________________________________________________________________
+College:290	1265	Mauli Group of Institutions, College of Engineering and Technology, Shegaon.	
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:291	1267	Pratap Institute of Management & Technology, Washim.	
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:292	1268     Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:357	6756	Fabtech Technical Campus College of Engineering and Research, Sangola	
+Year   :2011
+Intake :360
+_____________________________________________________________________________________________________
+College:358	6781	Bhagwant Institute of Technology, Barshi	
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:359	6782	Sahakar Maharshee Shankarrao Mohite Patil Institute of Technology & Research,	
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:56	3436	B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.	
+Year   :2011
+Intake :540
+_____________________________________________________________________________________________________
+College:57	3439	Anjuman-I-Islam's Kalsekar Technical Campus, Panvel	
+Year   :2011
+Intake :420
+_____________________________________________________________________________________________________
+College:58	3440	Metropolitan Institute of Technology & Management, Sukhalwad, Sindhudurg.	
+Year   :2011
+Intake :420
+_____________________________________________________________________________________________________
+College:59	3445	Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of	
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:60	3447	G.M.Vedak Institute of Technology, Tala, Raigad.	
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:90	5380	Adsul's Technical Campus, Chas Dist. Ahmednagar	
+Year   :2011
+Intake :240
+_____________________________________________________________________________________________________
+College:91	5382   Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti
+Year   :2011
+Intake :240
+_____________________________________________________________________________________________________
+College:92	5384	Shree Saibaba Institute of Engineering, Research & Allied Sciences, Rahta.	
+Year   :2011
+Intake :360
+_____________________________________________________________________________________________________
+College:93	5390   Krantiveer Vasantrao Narayan Naik Institute of Engineering Education & Research,Nashik.
+Year   :2011
+Intake :300
+_____________________________________________________________________________________________________
+College:164     6767	Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet,Pune.	
+Year   :2012
+Intake :300
+_____________________________________________________________________________________________________
+College:172	6794	Anantrao Pawar College of Engineering & Research, Pune	
+Year   :2012
+Intake :300
+_____________________________________________________________________________________________________
+College:173	6795   Shri.Someshwar Shikshan Prasarak Mandals, Someshwar Engineering College,Someshwar Nagar
+Year   :2012
+Intake :300
+_____________________________________________________________________________________________________
+College:174	6796	Bharati vidyapeeth's Group of Institute. Lavale Technical Campus, Mulshi, Pune.	
+Year   :2012
+Intake :300
+_____________________________________________________________________________________________________
+College:175	6802	Pad. Dr.D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune	
+Year   :2012
+Intake :540
+_____________________________________________________________________________________________________
+College:176	6808	Keystone School of Engineering, Pune	
+Year   :2012
+Intake :180
+_____________________________________________________________________________________________________
+College:218	2529	V.J. Shinde College of Engineering, Osmanabad.	
+Year   :2012
+Intake :300
+_____________________________________________________________________________________________________
+College:260	6797	Dnyanshree Institute Engineering and Technology, Satara	
+Year   :2012
+Intake :360
+_____________________________________________________________________________________________________
+College:261	6803	Sant Gajanan Maharaj College of Engineering, Gadhinglaj	
+Year   :2012
+Intake :300
+_____________________________________________________________________________________________________
+College:262	6805	Genesis Insitute of Technology, Kasarwadi, Dist Kolhapur	
+Year   :2012
+Intake :300
+_____________________________________________________________________________________________________
+College:263	6809     Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Degree Engineering, Patgaon, Miraj
+Year   :2012
+Intake :420
+_____________________________________________________________________________________________________
+College:61	3460	Universal College of Engineering,Kaman Dist. Thane	
+Year   :2012
+Intake :420
+_____________________________________________________________________________________________________
+College:62	3462	VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.	
+Year   :2012
+Intake :360
+_____________________________________________________________________________________________________
+College:94	5399	Sanghavi College of Engineering, Varvandi, Nashik.	
+Year   :2012
+Intake :300
+_____________________________________________________________________________________________________
+College:95	5401     Jawahar Education Society's Institute of Technology, Management & Research,Nashik.
+Year   :2012
+Intake :300
+_____________________________________________________________________________________________________
+College:96	5408	Vidya Niketan College of Engineering, Bota Sangamner	
+Year   :2012
+Intake :360
+_____________________________________________________________________________________________________
+College:97	5409   Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner,Dist.Ahmednagar
+Year   :2012
+Intake :210
+_____________________________________________________________________________________________________
+College:98	5411	Maulana Mukhtar Ahmad Nadvi Technical Campus, Malegaon.	
+Year   :2012
+Intake :300
+_____________________________________________________________________________________________________
+College:177	6815	Vidya Prasarini Sabha's College of Engineering & Technology, Lonavala	
+Year   :2013
+Intake :300
+_____________________________________________________________________________________________________
+College:219	2533	CSMSS Chh. Shahu College of Engineering, Aurangabad	
+Year   :2013
+Intake :360
+_____________________________________________________________________________________________________
+College:293	1276	Manav School of Engineering & Technology, Gut No. 1035 Nagpur Surat Highway, NH	No. 6 Tal.Vyala, Balapur, Akola,444302	
+Year   :2013
+Intake :300
+_____________________________________________________________________________________________________
+College:63	3465	Ideal Institute of Technology, Wada, Dist.Thane	
+Year   :2013
+Intake :300
+_____________________________________________________________________________________________________
+College:64	3467   Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad
+Year   :2013
+Intake :420
+_____________________________________________________________________________________________________
+College:99	5418	Guru Gobind Singh College of Engineering & Research Centre, Nashik.	
+Year   :2013
+Intake :300
+_____________________________________________________________________________________________________
+College:178	6822	Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And	
+Year   :2014
+Intake :300
+_____________________________________________________________________________________________________
+College:179	6834	Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon	
+Year   :2014
+Intake :300
+_____________________________________________________________________________________________________
+College:264	6839	Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur	
+Year   :2014
+Intake :240
+_____________________________________________________________________________________________________
+College:265	6878	Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur	
+Year   :2014
+Intake :300
+_____________________________________________________________________________________________________
+College:294	1278	Let.Dr.D.B.Dod College of Engineering, Jambla,Achalpur	
+Year   :2014
+Intake :240
+_____________________________________________________________________________________________________
+College:65	3471	New Horizon Institute of Technology & Management(Womens College), Thane	
+Year   :2014
+Intake :300
+_____________________________________________________________________________________________________
+College:66	3475	A. P. Shah Institute of Technology, Thane	
+Year   :2014
+Intake :300
+_____________________________________________________________________________________________________
+College:67	3477	Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel	
+Year   :2014
+Intake :240
+_____________________________________________________________________________________________________

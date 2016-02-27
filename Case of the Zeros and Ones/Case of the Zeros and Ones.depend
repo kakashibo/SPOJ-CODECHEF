@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1435415599 source:c:\users\dell\documents\case of the zeros and ones\main.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1435915353 source:c:\users\dell\documents\arthur and table\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<queue>
+	<set>
+	<limits.h>
+	<map>
+	<vector>
+	<stack>
+	<cmath>
+	<string>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1435918337 source:c:\users\dell\documents\chef and cube\main.cpp
+	<iostream>
+	<stdio.h>
+

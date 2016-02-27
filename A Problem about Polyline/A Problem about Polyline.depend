@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1442421696 source:c:\users\dell\documents\a problem about polyline\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stack>
+	<map>
+	<memory.h>
+	<string>
+

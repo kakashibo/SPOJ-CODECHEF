@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1435200427 source:c:\users\dell\documents\boggle\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+	<string.h>
+

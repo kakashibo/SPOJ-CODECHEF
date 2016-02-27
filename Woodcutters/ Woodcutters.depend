@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1434681647 source:c:\users\dell\documents\ woodcutters\main.cpp
+	<iostream>
+	<stdio.h>
+

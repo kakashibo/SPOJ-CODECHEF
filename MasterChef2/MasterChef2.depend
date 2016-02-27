@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1436257860 source:c:\users\dell\documents\masterchef2\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+	<cmath>
+

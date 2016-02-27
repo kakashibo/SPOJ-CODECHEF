@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440336970 source:c:\users\dell\documents\dcgameprac\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

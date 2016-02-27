@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1435935580 source:c:\users\dell\documents\bread\main.cpp
+	<iostream>
+	<stdio.h>
+

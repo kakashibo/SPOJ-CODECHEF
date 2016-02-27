@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1444316203 source:c:\users\dell\documents\adtri\main.cpp
+	<iostream>
+	<map>
+	<cmath>
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<fstream>
+	<string>
+	<string>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1435114808 source:c:\users\dell\documents\bvaan\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+

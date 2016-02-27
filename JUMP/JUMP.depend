@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1444485442 source:c:\users\dell\documents\jump\main.cpp
+	<iostream>
+	<cmath>
+	<climits>
+	<stdio.h>
+	<vector>
+	<set>
+	<cstdio>
+	<queue>
+

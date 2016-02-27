@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1436521396 source:c:\users\dell\documents\addtionmul\main.cpp
+	<cstdio>
+	<cmath>
+	<iostream>
+	<math.h>
+

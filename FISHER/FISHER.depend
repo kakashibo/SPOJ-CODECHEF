@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1435117243 source:c:\users\dell\documents\fisher\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

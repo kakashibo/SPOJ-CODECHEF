@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434604490 source:c:\users\dell\documents\palin\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

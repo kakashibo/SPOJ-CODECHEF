@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1435666690 source:c:\users\dell\documents\case of fugitive\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1435663364 source:c:\users\dell\documents\case of fugitive\untitled1ds.c
+
+1435663647 source:c:\users\dell\documents\case of fugitive\untitled2.cpp
+	<stdio.h>
+	<iostream>
+	<algorithm>
+	<iostream>
+	<algorithm>
+	<vector>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1439657621 source:c:\users\dell\documents\dcgame\main.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<algorithm>
+	<string.h>
+	<math.h>
+	<map>
+	<vector>
+

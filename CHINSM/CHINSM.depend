@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439784985 source:c:\users\dell\documents\chinsm\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+

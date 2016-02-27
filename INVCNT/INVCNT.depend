@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1434862524 source:c:\users\dell\documents\invcnt\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<cstdio>
+	<string.h>
+

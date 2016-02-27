@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444229931 source:c:\users\dell\documents\mgchgym\main.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

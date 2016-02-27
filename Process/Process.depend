@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1436009642 source:c:\users\dell\documents\process\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+	<vector>
+

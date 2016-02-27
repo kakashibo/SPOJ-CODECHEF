@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1440356334 source:c:\users\dell\documents\xornuber\main.cpp
+	<iostream>
+	<bitset>
+	<math.h>
+	<stdio.h>
+	<bits/stdc++.h>
+

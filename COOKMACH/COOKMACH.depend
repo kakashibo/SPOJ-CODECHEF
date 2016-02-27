@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1438962379 source:c:\users\dell\documents\cookmach\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+	<cmath>
+	<stdlib.h>
+	<stdio.h>
+

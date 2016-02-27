@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441977624 source:c:\users\dell\documents\ mgch3d\main.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<iomanip>
+

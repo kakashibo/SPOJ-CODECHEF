@@ -1,2 +1,2 @@
 # SPOJ-CODECHEF
-Some of the working codes for the problem on Spoj and Codechef
+Some of the working codes for the problems on Spoj and Codechef
